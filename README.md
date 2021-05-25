@@ -1,2 +1,4 @@
-# G.E.E-Freeze
-G.E.E Freeze is a local business founded by three teenagers searching for a way to enjoy a sweet and cool treat to stay cool during the desert. The products were made based off and family recipe of one of our founders. The product consists of crushed ice mixed with a variety of delicious refreshing and sweet flavors. 
+<h1> # G.E.E-Freeze <h/1>
+  
+A sweet and cold treat for you to enjoy on the hot summer days of the desert.
+Put the flavor on yourself choose one or all three of the deliciousness.
